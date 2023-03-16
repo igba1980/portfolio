@@ -1,0 +1,6 @@
+appName: portfolio-website
+imageName: localhost:5000/python_project
+replicas: 1
+serviceName: portfolio-svc
+sourcePort: 8000
+containerName: portfolio
